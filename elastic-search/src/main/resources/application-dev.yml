@@ -1,0 +1,8 @@
+
+#elasticsearch
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 10.8.1.211:9200
+      cluster-name: yeshen-ecs-cluster-2.4.2
+      repositories.enabled: true
